@@ -4,7 +4,7 @@ Basic tower defence game, use the mouse for almost all controls (drag and drop).
 
 
 
-To run:
+# To run:
 
 navigate to the folder in the terminal, and type
 
